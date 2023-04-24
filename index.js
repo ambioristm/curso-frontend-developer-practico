@@ -64,17 +64,52 @@ const productList = [];
 productList.push({
   name: 'Bike',
   price: 120,
-  Image: 'https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  Image: 'https://www.oxfordstore.cl/media/catalog/product/cache/e2b750e3a1f8d67cf5cdd4eb0e9445ad/6/0/604ba2751ca145_0_1.jpg',
 });
 productList.push({
   name: 'Laptop Acer',
   price: 570,
-  Image: 'https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  Image: 'https://www.lenovo.com/medias/lenovo-laptops-ideapad-5-15in-intel-hero.png?context=bWFzdGVyfHJvb3R8MjQ1MzM5fGltYWdlL3BuZ3xoMDMvaDZmLzE0MTkxNjE1NDQyOTc0LnBuZ3wwZmM1N2FhMWMwODkxYTIwNjRkMWI2NDNlM2RjMjNiM2VlNGZiZGE4NmUzYWQxOTQ1OWY3N2YxN2M1MGM5NDYz',
 });
 productList.push({
   name: 'Camisa',
   price: 22,
-  Image: 'https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  Image: 'https://cdn.shopify.com/s/files/1/0438/9561/9735/products/CAT_0049_4_1024x1024.jpg?v=1675731931',
+});
+productList.push({
+  name: 'Apple Watch',
+  price: 145,
+  Image: 'https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP860/series7-480.png',
+});
+productList.push({
+  name: 'Jeans',
+  price: 45,
+  Image: 'https://cdn.britannica.com/74/190774-131-CC3FEB1F/jeans-denim-pants-clothing.jpg',
+});
+productList.push({
+  name: 'Tenis',
+  price: 60,
+  Image: 'https://www.jiomart.com/images/product/original/rvrgwpjvsp/bruton-trendy-sports-shoes-for-men-blue-product-images-rvrgwpjvsp-0-202209021256.jpg',
+});
+productList.push({
+  name: 'Nike',
+  price: 45,
+  Image: 'https://cdn.pixabay.com/photo/2021/02/13/05/58/tennis-6010392_1280.png',
+});
+productList.push({
+  name: 'Camiseta Deportiva',
+  price: 50,
+  Image: 'https://deportesmoya.es/146006-large_default/camiseta-fanatics-mlb-franchise-poly-mesh-pirates-negro.jpg',
+});
+productList.push({
+  name: 'Iphone 14 Pro Max',
+  price: 1022,
+  Image: 'https://ivenus.in/wp-content/uploads/2022/09/iphone-14-pro-Max-finish-select-202209-6-1inch-spaceblack_AV1_GEO_EMEA.png',
+});
+productList.push({
+  name: 'Bocina',
+  price: 15,
+  Image: 'https://portatilshoprd.com/wp-content/uploads/2022/12/81LWVY72GhL._AC_SL1500_.jpg',
 });
 
 //Productos creados dinamicamente.

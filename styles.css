@@ -170,6 +170,7 @@ aside {
   right: 0;
 }
 #shoppingCartContainer {
+  position: fixed;
   padding: 0 24px;
 }
 /* ShoppingCart */
@@ -265,6 +266,7 @@ aside {
   margin: 26px 24px 0 0 ;
 }*/
 #productDetail .product-info {
+  background-color: var(--white);
   width: 360px;
   padding: 24px;
   box-sizing: border-box;
