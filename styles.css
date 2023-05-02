@@ -352,7 +352,7 @@ aside {
   margin-bottom: 0;
   color: var(--very-light-pink);
 }
-@media (max-width: 640px) {
+@media (max-width: 750px) {
   .menu {
     display: block;
     cursor: pointer;
@@ -369,6 +369,9 @@ aside {
   aside {
     width: 100%;
   }
+  #productDetail .product-info {
+    width: 100%;
+  }
   .cards-container {
     grid-template-columns: repeat(auto-fill, 140px);
   }
@@ -380,7 +383,7 @@ aside {
     height: 140px;
   }
 }
-@media (min-width: 641px) {
+@media (min-width: 751px) {
   .mobile-menu {
     display: none;
   }
